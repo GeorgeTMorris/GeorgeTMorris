@@ -19,7 +19,7 @@ My work spans:
 - **Infrastructure:** GPU inference, backend services, authentication and billing.
 - **Reproducibility:** recording the approved plan and method so analyses can be repeated.
 
-I started coding the app in February 2026. For one CRO trial, I delivered four custom analyses in under two weeks: RPE phenotyping, tube formation, choroid explants and retinal vessels.
+For one CRO trial, I delivered four custom analyses in under two weeks: RPE phenotyping, tube formation, choroid explants and retinal vessels.
 
 ## Previously
 
